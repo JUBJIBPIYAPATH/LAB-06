@@ -62,7 +62,7 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic3.png)
 
 4.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
+<hr>![](https://github.com/JUBJIBPIYAPATH/LAB-06/blob/master/LAB6.3.PNG?raw=true)
 <hr>
 <hr>
 <hr>
